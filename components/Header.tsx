@@ -1,4 +1,3 @@
-// components/Header.tsx
 import siteData from '@/data/site.json';
 import { Zap } from 'lucide-react';
 
