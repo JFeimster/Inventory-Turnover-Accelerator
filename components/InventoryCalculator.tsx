@@ -1,4 +1,3 @@
-// components/InventoryCalculator.tsx
 "use client";
 import React, { useState, useEffect } from 'react';
 import { TrendingUp, ArrowRight, Info } from 'lucide-react';
