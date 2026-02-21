@@ -1,9 +1,7 @@
-// data/site.json
 {
   "brand_name": "VelocityEngine",
   "tagline": "The Math of Daily Payouts",
   "one_line_positioning": "Eliminating the 14-day Amazon drag to unlock exponential inventory turns.",
   "primary_accent": "#d4af37",
-  "cta_url": "https://www.payability.com/YOUR_AFFILIATE_ID",
-  "analytics_id": "G-XXXXXXXXXX"
+  "cta_url": "https://www.payability.com/YOUR_AFFILIATE_ID"
 }
